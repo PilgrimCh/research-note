@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Note"
+  short_description: "Create deep Chinese research notes and StudyHub updates"
+  default_prompt: "Use $research-note to turn these papers into a deep Chinese research note and update my StudyHub."

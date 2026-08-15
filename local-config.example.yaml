@@ -1,0 +1,4 @@
+# Copy this file to local-config.yaml and set the absolute path to your vault.
+# local-config.yaml is intentionally ignored by Git.
+studyhub_root: '<absolute-path-to-your-studyhub-vault>'
+
